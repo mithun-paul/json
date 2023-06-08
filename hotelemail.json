@@ -1,0 +1,38 @@
+[
+    {
+        "hotelId": "79cdc6a7-c200-42c3-b719-ed967c5fc159",
+        "emailIds": [
+            {
+                "HouseKeeping": "royalservice.fairmontdoha@accor.com,sarath.kumar@hudini.io"
+            },
+            {
+                "IRD": "ird.fairmontdoha@accor.com,zakaryae.hitachi@fairmont.com,sarath.kumar@hudini.io"
+            },
+            {
+                "SPA": "spa.doha@fairmont.com,sarath.kumar@hudini.io"
+            },
+            {
+                "Restaurant": "sarath.kumar@hudini.io,younus.yoosaf@hudini.io"
+            }
+        ]
+    },
+    {
+        "hotelId": "a4642525-e3db-4362-9510-57d0da4b84c6",
+        "emailIds": [
+            {
+                "HouseKeeping": "Butler.rafflesdoha@accor.com,sarath.kumar@hudini.io"
+            },
+            {
+                "SPA": "ISD.Doha@accor.com,sarath.kumar@hudini.io"
+            }
+        ]
+    },
+    {
+        "hotelId": "aafcecb6-bdf1-4249-8f63-a9a2bcd821a1",
+        "emailIds": [
+            {
+                "HouseKeeping": "sreelakshmi.cv@hudini.io"
+            }
+        ]
+    }
+]
